@@ -13,9 +13,8 @@ new-joe-kuo-6-21201.csv: the files containing the 21201 direction numbers
 **Example**
 
 Generation of 512 points in 21201 dimensions
-
-*sampler = sobol_generator(21201)
-sample = sampler.sample(512)*
+*sampler = sobol_generator(21201)*
+*sample = sampler.sample(512)*
 
 **Images**
 
