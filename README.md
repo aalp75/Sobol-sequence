@@ -16,6 +16,8 @@ binary_aray(n,b): transform an integer into a list of his base b representation\
 rightmost_zero_index: return the rightmost zero index is the base reprensentation compare to the rightmost index ([b-1,b-1,...,b-1] will return len(a)+1)\
 next_bary(a,b): increment of 1 the base b representation
 
+We suggest to generate a power of 2 number of points.
+
 
 **Files**
 
