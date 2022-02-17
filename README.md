@@ -12,8 +12,8 @@ Method load is used to load the directions numbers (for example s = 7 and a = 28
 
 Several utility functions are used:
 
-binary_aray(n,b): transform an integer into a list of his base b representation
-rightmost_zero_index: return the rightmost zero index is the base reprensentation compare to the rightmost index ([b-1,b-1,...,b-1] will return len(a)+1)
+binary_aray(n,b): transform an integer into a list of his base b representation\
+rightmost_zero_index: return the rightmost zero index is the base reprensentation compare to the rightmost index ([b-1,b-1,...,b-1] will return len(a)+1)\
 next_bary(a,b): increment of 1 the base b representation
 
 
@@ -27,8 +27,7 @@ new-joe-kuo-6-21201.csv: the files containing the 21201 direction numbers.
 
 Generation of 512 points in 21201 dimensions:
 
-*sampler = sobol_generator(21201)*
-
+*sampler = sobol_generator(21201)*\
 *sample = sampler.sample(512)*
 
 Give the folowing distribution over the dimensions 1, 2, 9784 ans 10764:
