@@ -10,7 +10,7 @@ Sobol-sequence.ipynb: the main
 
 **Images**
 
-![This is an image](https://github.com/aalp75/Sobol-sequence/blob/main/dim1-dim2.png)
+![This is an image](https://github.com/aalp75/Sobol-sequence/blob/main/dim1-dim2.png) ![This is an image](https://github.com/aalp75/Sobol-sequence/blob/main/dim9784-dim10764.png)
 
 
 **References**
