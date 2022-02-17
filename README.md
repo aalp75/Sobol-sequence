@@ -6,8 +6,8 @@ Implementation of Sobol sequence generator up to 21201 dimensions using the dire
 
 The generator is implementing using class.
 
-Method sobol_mat is used to generate the matrix directions.
-Method sobol_pts is used to generate the points in every directions.
+Method sobol_mat is used to generate the matrix directions.\
+Method sobol_pts is used to generate the points in every directions.\
 Method load is used to load the directions numbers (for example s = 7 and a = 28 gives [1,0,1,1,1,0,0,1])
 
 Several utility functions are used:
