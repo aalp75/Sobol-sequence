@@ -32,7 +32,7 @@ Generation of 512 points in 21201 dimensions:
 *sampler = sobol_generator(21201)*\
 *sample = sampler.sample(512)*
 
-Give the folowing distribution over the dimensions 1, 2, 9784 ans 10764:
+Give the folowing distribution over the dimensions 1, 2, 9784 and 10764:
 
 ![This is an image](https://github.com/aalp75/Sobol-sequence/blob/main/dim1-dim2.png) ![This is an image](https://github.com/aalp75/Sobol-sequence/blob/main/dim9784-dim10764.png)
 
